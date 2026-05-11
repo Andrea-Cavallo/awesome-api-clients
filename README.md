@@ -13,7 +13,7 @@ If you wish to contribute: [start a pull request](https://github.com/stepci/awes
 - [Firecamp](https://firecamp.io) ([repo](https://github.com/firecamp-dev/firecamp)) - Open Source Postman Alternative inspired by VS Code DX
 - [gRPC UI](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [Yaade](https://docs.yaade.io) ([repo](https://github.com/EsperoTech/yaade)) - Yaade is an open-source, self-hosted, collaborative API development environment
-- [Prestige](https://prestige.dev) ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
+- Prestige ([repo](https://github.com/sharat87/prestige)) - A text-based in-browser HTTP client, an interface-less Postman alternative
 - [Requestly](https://requestly.com) ([repo](https://github.com/requestly/requestly)) - A Browser extension with API Client, API Mocking & API Interception and Modification capabilities.
 
 ## Desktop
